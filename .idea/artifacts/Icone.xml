@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Icone">
+    <output-path>$PROJECT_DIR$/out/artifacts/Icone</output-path>
+    <root id="archive" name="Icone.jar">
+      <element id="module-output" name="Icone" />
+    </root>
+  </artifact>
+</component>
