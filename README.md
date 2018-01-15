@@ -1,8 +1,8 @@
-# Oncoupe
+# Icone
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Oncoupe](#oncoupe)
+- [Icone](#icone)
 	- [Description](#description)
 	- [Usage](#usage)
 	- [License](#license)
@@ -12,18 +12,7 @@
 
 ## Description
 
-Oncoupe (Wecut) is a non-destructive video editor having the ability to make simple changes to video files without transcoding them.
-
-Here's a list of the features offered by Oncoupe :
-
-- cutting
-- splitting
-- joining (video files must have the same resolution and encoding parameters)
-- cropping
-- rotating
-- flipping
-- muxing
-- demuxing
+Icone is a simple icons maker letting you create icons from any png, jpg or svg image files.
 
 ## Usage
 
