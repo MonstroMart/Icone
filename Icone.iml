@@ -7,6 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.apache.tika:tika-core:1.17" level="project" />
+    <orderEntry type="library" name="com.google.guava:guava:23.6-jre" level="project" />
+    <orderEntry type="library" name="org.apache.commons:commons-lang3:3.7" level="project" />
   </component>
 </module>
-
